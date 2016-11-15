@@ -414,7 +414,7 @@
 				DEVELOPMENT_TEAM = GA4BAP9K3F;
 				INFOPLIST_FILE = RichiOSNotifications/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.richiosnotifications;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.richiosnotifications;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -427,7 +427,7 @@
 				DEVELOPMENT_TEAM = GA4BAP9K3F;
 				INFOPLIST_FILE = RichiOSNotifications/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.richiosnotifications;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.richiosnotifications;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -506,6 +506,7 @@
 				F72962AA1DDB5FB70013F432 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F72962AB1DDB5FB70013F432 /* Build configuration list for PBXNativeTarget "RichiOSNotificationsTests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +515,7 @@
 				F72962AD1DDB5FB70013F432 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F72962AE1DDB5FB70013F432 /* Build configuration list for PBXNativeTarget "RichiOSNotificationsUITests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +524,7 @@
 				F72962B01DDB5FB70013F432 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
